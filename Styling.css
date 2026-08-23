@@ -1,7 +1,12 @@
 body { background-color: #4298DA
+
+
+}
+img { display:block;} 
+.Game-Summary {
     
-
-
-
+    padding:20px;
+    display:flex;
+    gap:10px;
 
 }
